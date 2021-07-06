@@ -1,3 +1,19 @@
+
+Table of Contents
+=================
+
+* [Adaboost](#adaboost)
+* [DecisionTree](#decisiontree)
+* [FeatureSelection](#featureselection)
+* [FeaturesScaling](#featuresscaling)
+* [K-MeansClustering](#k-meansclustering)
+* [KNN](#knn)
+* [LinearRegression](#linearregression)
+* [PCA](#pca)
+* [SVM](#svm)
+
+
+
 # Adaboost
 
 ## Overview
