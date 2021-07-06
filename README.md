@@ -1,3 +1,5 @@
+# Adaboost
+
 ## Overview
 
 
@@ -109,6 +111,7 @@ prettyPicture(clf, test_X, test_y)
     
 ![png](output_8_1.png)
     
+# DecisionTree
 
 ```python
 from sklearn.tree import DecisionTreeClassifier
@@ -202,6 +205,7 @@ prettyPicture(clf, test_X, test_y)
     
 ![png](output_11_1.png)
     
+# FeatureSelection
 
 ## Guide
 
@@ -242,6 +246,9 @@ print(clf.intercept_)
 ```python
 
 ```
+
+# FeaturesScaling
+
 ## Overview
 
 Generally, SVM and K-means clustering are affected by scaling
@@ -276,6 +283,9 @@ print(scaler.transform(data))
 ```python
 
 ```
+
+# K-MeansClustering
+
 ## Overview
 
 there may not be a unique equilibrium for the cluster\
@@ -340,6 +350,8 @@ kmeans.cluster_centers_
     array([[10.,  2.],
            [ 1.,  2.]])
 
+
+# KNN
 
 ## Starter Code
 
@@ -425,6 +437,8 @@ prettyPicture(neigh, test_X, test_y)
     
 ![png](output_9_1.png)
     
+
+# LinearRegression
 
 ## Starter Code
 
@@ -529,6 +543,9 @@ https://www.youtube.com/watch?v=U46D7oEijlI
 ```python
 
 ```
+
+# PCA
+
 ## Starter Code
 
 
@@ -604,6 +621,7 @@ for ii, jj in zip(trans_X, X):
     
 ![png](output_6_0.png)
     
+# SVM
 
 ## Overview
 
